@@ -24,14 +24,3 @@
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
     </div>
 </div>
-
-
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <br>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=Dianaland1112&bg_color=180,d0fbf3,00000000&title_color=000000&text_color=000000&count_private=true&show_icons=true" /> 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dianaland1112&layout=compact&bg_color=180,d0fbf3,00000000&title_color=000000&text_color=000000&hide=html,css" /> 
-    </div> 
-</div>
-
