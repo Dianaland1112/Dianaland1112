@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9bdbd,100:d7f29c&height=180&text=Welcome%20to%20Dianaland!&animation=fadeIn&fontColor=000000&fontSize=40" />
+
 </div>
 
 <br>
