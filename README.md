@@ -1,7 +1,5 @@
 ## 💡 About Me
 
-> 끝까지 파고드는 집념을 가진 개발자, 정다연입니다
->
 > 📬 **Contact:** [dianaland1112@gmail.com](mailto:dianaland1112@gmail.com)
 
 
